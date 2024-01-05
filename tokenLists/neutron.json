@@ -234,5 +234,12 @@
     "token": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
     "icon": "/img/circus.png",
     "decimals": 6
-  }  
+  }, 
+  {
+    "protocol": "COSMONAUTS",
+    "symbol": "COSMONAUTS",
+    "token": "neutron1jp2dpm4lp58qjtfcgr5c7d2usw2rcp6hf0vwy2wqjm5wl0e2sjmq7ryttp",
+    "icon": "/img/COSMONAUTS.png",
+    "decimals": 6
+  }
 ]
